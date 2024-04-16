@@ -24,7 +24,7 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 NeedsCompilation: yes
-Packaged: 2024-04-16 12:36:48 UTC; gaborcsardi
+Packaged: 2024-04-16 13:39:00 UTC; gaborcsardi
 Author: Jay Loden [aut],
   Dave Daeschler [aut],
   Giampaolo Rodola' [aut],
